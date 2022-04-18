@@ -31,3 +31,29 @@ python -m http.server 8000
 ```
 
 ## [License](/LICENSE)
+
+
+____________________________________________________________________________________________________________________
+
+
+
+rotation and highlight feature for seamless ness
+
+across mobile and web so as to minimize the use of mouse pointrers...
+
+
+themee --
+
+
+links - we are pointer unfriendly :)
+
+Problem - If we are using a conventional messaging software, we have to invest four clicks to send one message across two groups. That is wild...! We are here to fix this problem. 
+
+
+At links we believe that there should be no breaks in communication between your groups. Thus its our job to introduce more seamlessness into your day to day communication on campus across multiple roles. We know you are very busy and we are here to help let your day run much easier!
+
+We have all been there- Avoid posting personal messages on your professional groups
+
+Color theme : color of a chain silver basic and add a basic animation of a chain link in the begining of the website alongwith georgetown logo, georgetown logo forming into chain links then links logo appears	
+
+(c) 2021 links | ...
