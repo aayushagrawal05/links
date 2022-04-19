@@ -49,11 +49,11 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#">Page 2</a>
+              <a class="nav-link" href=" https://aayushagrawal05.github.io/links/learn.html">Page 2</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#">Page 3</a>
+              <a class="nav-link" href=" https://aayushagrawal05.github.io/links/learn.html">Page 3</a>
             </li>
 
           </ul>
@@ -72,7 +72,7 @@
         <hr class="my-4">
         <p>Want to know how it works ?</p>
         <p class="lead">
-          <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+          <a class="btn btn-primary btn-lg" href="#" role="button"  onclick="window.open('https://aayushagrawal05.github.io/links/learn.html', '_blank');">Learn more</a>
         </p>
       </div>
 
@@ -91,32 +91,12 @@
 
     </script>
 
-    <!-- Adding a User login form by using the formspree server -->
+
+    <!-- Adding a new links User signup form -->
     <form
         action="https://formspree.io/f/mnqwgyqk"
         method="POST"
     >
-        <label>
-        Your email:
-        <input type="email" name="email">
-        </label>
-        
-        <label>
-        Your message:
-        <textarea name="message"></textarea>
-        </label>
-        <!-- your other form fields go here -->
-        <button type="submit">Send</button>
-    </form>
-
-
-
-
-
-
-
-    <!-- Adding a new links User signup form -->
-    <form>
         <div class="form-row">
           <div class="form-group col-md-6">
             <label for="inputEmail4">Email</label>
@@ -146,7 +126,7 @@
             </label>
           </div>
         </div>
-        <button type="submit" id="signup" class="btn btn-primary">Sign up</button>
+        <button type="submit" id="signup" class="btn btn-primary" onclick="window.open('https://aayushagrawal05.github.io/links/learn.html', '_blank');">Sign up</button>
       </form>
 
 
@@ -169,7 +149,8 @@
             event.preventDefault()   
             
             //prints the value of selected list value in gender to the console
-            //console.log(myGender.options[myGender.selectedIndex].value)
+            console.log(myGender.options[myGender.selectedIndex].value)
+
         }
         
 
@@ -177,6 +158,8 @@
         //var myHeading = document.createElement("h3")
         //myHeading.innerHTML = "This is a heading"
         //myDiv.appendChild(myHeading)
+
+        // Script listening for a button click event on the form 
         clickMeButton.addEventListener("click", handleSubmit)
       </script>
 
