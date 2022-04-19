@@ -8,3 +8,12 @@ h1 {
     color: grey;
   }
   
+  body {
+background-color: pink;
+  }
+  
+  @media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
