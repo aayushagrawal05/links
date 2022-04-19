@@ -25,3 +25,8 @@ background-color: pink;
     padding: 50px;
     margin: 20px;
   }
+
+  ol {
+font-style: italic;
+list-style:disc;
+  }
