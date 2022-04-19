@@ -14,7 +14,7 @@ background-color: pink;
   
   @media screen and (min-width: 480px) {
     body {
-      background-color: lightgreen;
+      background-color: white;
     }
   }
 
@@ -29,4 +29,18 @@ background-color: pink;
   ol {
 font-style: italic;
 list-style:disc;
+}
+
+img:hover {
+    opacity:1;
+}
+
+img{
+    opacity: 0.3;
+}
+
+video {
+    /* make video more responsive to change in height*/
+    width: 100%    !important;
+    height: auto   !important;
   }
