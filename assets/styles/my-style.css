@@ -1,46 +1,15 @@
 /* Links Stylesheet */
 
-h1 {
-    font-size: 35px;
-    font-weight: normal;
-    margin-top: 5px;
-    font-family:cursive;
-    color: grey;
-  }
-  
-  body {
-background-color: pink;
-  }
-  
+/* Responds to change in width of screen by changing the background color */
   @media screen and (min-width: 480px) {
     body {
-      background-color: white;
+      background-color: rgb(234, 234, 113);
     }
   }
-
-  .box {
-    background-color: lightgrey;
-    width: 300px;
-    border: 15px solid green;
-    padding: 50px;
-    margin: 20px;
-  }
-
-  ol {
-font-style: italic;
-list-style:disc;
-}
-
-img:hover {
-    opacity:1;
-}
-
-img{
-    opacity: 0.3;
-}
 
 video {
     /* make video more responsive to change in height*/
     width: 100%    !important;
     height: auto   !important;
   }
+
