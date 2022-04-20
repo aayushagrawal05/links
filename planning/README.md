@@ -5,7 +5,7 @@ An example student website, hosted by [GitHub Pages](https://pages.github.com/).
 
 View live in production at https://aayushagrawal05.github.io/links/.
 
-![a demonstration of website functionality showing navigation between a few linked pages](Animation.gif)
+![a demonstration of website functionality showing navigation between a few linked pages](https://github.com/aayushagrawal05/links/blob/main/assets/video/Animation.gif)
 
 ## Objective of links
 At links - We are pointer unfriendly :)
